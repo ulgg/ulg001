@@ -1,7 +1,7 @@
 # ulg001
 I'm thinking this app name
 
-# DESCRIPTION
+# Description
 An app using League Client API.
 https://developer.riotgames.com/league-client-apis.html
 
