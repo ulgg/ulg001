@@ -1,0 +1,15 @@
+{
+  "name": "ulg001",
+  "version": "1.0.0",
+  "description": "An app using League Client API. For learing API at The Riot Games API Challenge 2018",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
